@@ -1,13 +1,28 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Session Concepts"
+author: "Reimehix"
 date: "2024-02-03"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [gameplay, concept]
+image: "feather.jpg"
 ---
 
-This is a post with executable code.
+- prep 3-4 scenes that happen in each session
+- prep a DM's map (for keeping track of gameplay)
+- write recaps (again for better anticipation whats about to happen next, see 1st advice; or just providing a recap at begin of next session)
+- OR ask players for recap!
+- make contingency plans (alternative plans?) --> think about multiple happenings without overplanning (hard one tbh..)
+- prep a random list (NPC names, random side quest, traits, etc..) for random encounters
+- or use flowcharts (for combat&dialogue)
+- put ideas from other media into campaings (get inspired!)
+- develop also the npcs in respect to campaign happenings!/keep invested in story!
+- train your improv skill!
 
-```{r}
-1 + 1
-```
+Guideline by "Lazy DM":
+1) Review the PCs
+2) Make a “Strong Start” to kick the game off with something fun. 
+3) Jot down some “Potential Scenes”
+4) Jot down some “Secrets & Clues”
+5) Important NPCs
+6) Fantastic Locations (or a good map)
+7) Encounters
+8) Treasures & Loot
