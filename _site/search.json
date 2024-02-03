@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DnD",
+    "section": "",
+    "text": "Worldbuilding Concepts\n\n\n\n\n\n\n\nnews\n\n\nplanning\n\n\nworldbuilding\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2024\n\n\nReimehix\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/Worldbuilding Concepts/index.html",
+    "href": "posts/Worldbuilding Concepts/index.html",
+    "title": "Worldbuilding Concepts",
+    "section": "",
+    "text": "Vorstellung häufig genutzter Konzepte im Worlddesign.\nPrinzipiell gilt: Es muss nicht alles im Detail geplant sein! Am wichtigsten ist es, ein Thema und Ton für die Welt zu setzen und diese konsequent (zum Tischkonsens) zu verfolgen. –&gt; Bsp.: eine stadt ist industriell geprägt. Aber warum? Weil nebenan eine Kohlemine gelegen ist. –&gt; WICHTIG: Dies ist nur der “Fakt”, was aber folgt daraus im Sinne des verfolgten Themas/Tons? Zieht die Mine auch eine lokale Mafia/Bruderschaft/Orden an? Ist sie der Grundstein der lokalen Identität? Wenn ja, wieso? Wie stark prägt die mine die örtliche Gesellschaft (Im guten wie im negativen)?\nDieser Ansatz mag nützlich sein, mag aber ebenso rasch zum “Überplanen” und zu Detailverliebheit führen. Die Kombination mit dem folgendem Konzept kann hierbei Abhilfe schaffen:\n\nPlane so viel nötig, um so gut wie möglich improvisieren zu können!  - Brennan Lee Mulligan\n\nKurze Erklärung: Am Anfang jeder Geschichte ist… Nichts! Dir als DM obliegt es, die Welt mit Leben und Gravitas zu füllen, die im Grunde als “Inspirationskeime” für improvisierte Dialoge und Geschehnisse dienen sollen. Hat sich deine Party in die (von dir wenig geplante) Wildnis gewagt und möchte Auskunft über die Umgebung?  Es fällt leichter,\n\nrecycle storyelemente, die nicht angefasst wurden zu geeigneter Gelegenheit\n2 seiten maximum für city building: keep it short\nplane die welt so, dass Improvisation leicht fällt (world elements in landscape als inspirationskeime)/ verwerfe nach session widersprüchliches oder passe welt according to “table lore”\nganz grob plotten (was soll das setting sein, wie soll die story in etwa enden?) –&gt; metapher der TV-show: jede episode mit eigener geschichte, die sich jedoch über narrativ/thema der story zu größerem plot web verdichtet –&gt; gefahr des overplottens/kontrollverlusts/railroading? vlt besser, nur das thema/Tone zu setten"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
