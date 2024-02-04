@@ -15,4 +15,4 @@ about:
       href: https://github.com/soekni
 ---
 
-Dieser Blog dient als Übung zum Umgang mit Markdown - aber verbunden mit dem Eifer zur Erstellung eines DnD-Spielleiterkompendiums als Nachschlagewerk für und vor künftigen Sitzungen bzw. Reisen in kollektive Fantasmen! 🕮
+[ <strong> Dieser Blog dient als Übung zum Umgang mit Markdown - aber verbunden mit dem Eifer zur Erstellung eines DnD-Spielleiterkompendiums als Nachschlagewerk für und vor künftigen Sitzungen bzw. Reisen in kollektive Fantasmen! 🕮 ]{style="color:darkred; font-family: Babas; font-size: 1.4em"}

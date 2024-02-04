@@ -5,8 +5,27 @@ date: "2024-02-03"
 categories: [code, markdown]
 image: "computer.jpg"
 ---
+
 **Get a brief introduction about the markdown basics used to build this blog!**
 
 A markup file is a text file with embedded commands. These commands can be simple text formatting characters or complete r scripts. A rmd-file is a mixture of R commands , normal text and formatting code. For a cheat sheet on markdown/quarto basics, see [1](https://www.markdownguide.org/cheat-sheet/) or [this](https://www.markdownguide.org/basic-syntax/) for additional information. Markdown commands for special formatting such as adding colors, embedding comments, videos or table of contents, can be found [here](https://www.markdownguide.org/hacks/#overview). For an interactive beginners markdown tutorial, click [here](https://commonmark.org/help/tutorial/06-lists.html).
 
-An **impressive** ressource for teaching markdown to instructors can be adressed on this [site](https://rstudio4edu.github.io/rstudio4edu-book/make-doc.html)!
+An **impressive** ressource for teaching markdown to instructors can be adressed on this [site](https://rstudio4edu.github.io/rstudio4edu-book/make-doc.html)! Quarto emoji's can be copied from this [glossar](https://emojidb.org/book-emojis?user_typed_query=1).
+
+Useful Quarto Extensions (for Blogging/HTML):
+
+| Name | Purpose                                               | Link                                          |
+|------|-------------------------------------------------------|-----------------------------------------------|
+| WebR | Run any R-Code on HTML file in an interactive console | https://yt.artemislena.eu/watch?v=DoRR2S5lLvk |
+|      |                                                       |                                               |
+|      |                                                       |                                               |
+
+List of extension ressources for [**everything**](https://github.com/mcanouil/awesome-quarto)!
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/soekni/comment_DnD.git"
+        issue-term="pathname"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>

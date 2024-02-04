@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DnD",
+    "title": "A Dungeon Master’s Compendium",
     "section": "",
     "text": "Session Concepts\n\n\n\n\n\n\n\ngameplay\n\n\nconcept\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2024\n\n\nReimehix\n\n\n\n\n\n\n  \n\n\n\n\nFramework-Basics\n\n\n\n\n\n\n\ncode\n\n\nmarkdown\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2024\n\n\nSK\n\n\n\n\n\n\n  \n\n\n\n\nWorldbuilding Concepts\n\n\n\n\n\n\n\nplanning\n\n\nworldbuilding\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2024\n\n\nReimehix\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
@@ -18,7 +18,7 @@
     "href": "posts/Framework-Basics/index.html",
     "title": "Framework-Basics",
     "section": "",
-    "text": "Get a brief introduction about the markdown basics used to build this blog!\nA markup file is a text file with embedded commands. These commands can be simple text formatting characters or complete r scripts. A rmd-file is a mixture of R commands , normal text and formatting code. For a cheat sheet on markdown/quarto basics, see 1 or this for additional information. Markdown commands for special formatting such as adding colors, embedding comments, videos or table of contents, can be found here. For an interactive beginners markdown tutorial, click here.\nAn impressive ressource for teaching markdown to instructors can be adressed on this site!"
+    "text": "Get a brief introduction about the markdown basics used to build this blog!\nA markup file is a text file with embedded commands. These commands can be simple text formatting characters or complete r scripts. A rmd-file is a mixture of R commands , normal text and formatting code. For a cheat sheet on markdown/quarto basics, see 1 or this for additional information. Markdown commands for special formatting such as adding colors, embedding comments, videos or table of contents, can be found here. For an interactive beginners markdown tutorial, click here.\nAn impressive ressource for teaching markdown to instructors can be adressed on this site! Quarto emoji’s can be copied from this glossar.\nUseful Quarto Extensions (for Blogging/HTML):\n\n\n\n\n\n\n\n\nName\nPurpose\nLink\n\n\n\n\nWebR\nRun any R-Code on HTML file in an interactive console\nhttps://yt.artemislena.eu/watch?v=DoRR2S5lLvk\n\n\n\n\n\n\n\n\n\n\n\n\n\nList of extension ressources for everything!"
   },
   {
     "objectID": "posts/Session Concepts/index.html",
