@@ -1,19 +1,18 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Concerning Bloggits"
+image: poet.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+    - icon: mastodon
+      text: Mastodon
+      href: https://dresden.network/@7eruS
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Soeren-Knipper
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/soekni
 ---
 
-About this blog
+Dieser Blog dient als Übung zum Umgang mit Markdown - aber verbunden mit dem Eifer zur Erstellung eines DnD-Spielleiterkompendiums als Nachschlagewerk für und vor künftigen Sitzungen bzw. Reisen in kollektive Fantasmen! 🕮
