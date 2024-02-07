@@ -21,13 +21,10 @@ execute:
 [Grüße, Genüssliche!]{.home-header}
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ::: {#card-first-color .card .h-100}
 ::: {.card-body .d-flex .flex-column}
-
-
 Infos zum Blog finden sich hier.
-
 
 ::: {style="margin-top: auto;"}
 <a href="about.qmd" class="card-link heading-font">*About*</a>
@@ -36,47 +33,39 @@ Infos zum Blog finden sich hier.
 :::
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ::: {#card-second-color .card .h-100}
 ::: {.card-body .d-flex .flex-column}
-
-Willst du mehr über die theoretischen Aspekte des Worldbuildings erfahren? <br>
-Hier lang!
-
+Willst du mehr über die theoretischen Aspekte des Worldbuildings erfahren? <br> Hier lang!
 
 ::: {style="margin-top: auto;"}
-<a href="posts.qmd" class="card-link second-color-link heading-font">*Concepts*</a>
+<a href="concepts.qmd" class="card-link second-color-link heading-font">*Concepts*</a>
 :::
 :::
 :::
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ::: {#card-third-color .card .h-100}
 ::: {.card-body .d-flex .flex-column}
-
 In dieser Rubrik findest du Anleitungen zum Nachbasteln einer eigenen Website.
 
-
 ::: {style="margin-top: auto;"}
-<a href="talks.qmd" class="card-link third-color-link heading-font">*DIY*</a>
+<a href="diy.qmd" class="card-link third-color-link heading-font">*DIY*</a>
 :::
 :::
 :::
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ::: {#card-fourth-color .card .h-100}
 ::: {.card-body .d-flex .flex-column}
-
 Für weiterführende Details rund ums Thema "*OpenSource meets D&D*" folge dieser Seite.
 
-
 ::: {style="margin-top: auto;"}
-<a href="packages.qmd" class="card-link second-color-link heading-font">*FOSS Toolbox*</a>
+<a href="toolbox.qmd" class="card-link second-color-link heading-font">*FOSS Toolbox*</a>
 :::
 :::
 :::
 :::
-
 :::
