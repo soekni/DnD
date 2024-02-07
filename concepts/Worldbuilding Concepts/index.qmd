@@ -21,15 +21,16 @@ Dieser Ansatz mag nützlich sein, mag aber ebenso rasch zum "Überplanen" und zu
 Kurze Erklärung: <br> Am Anfang jeder Geschichte ist... Nichts! Dir als DM obliegt es, die Welt mit Leben und Gravitas zu füllen, die im Grunde als "Inspirationskeime" für improvisierte Dialoge und Geschehnisse dienen sollen. <br> Hat sich deine Party in die (von dir wenig geplante) Wildnis gewagt und möchte Auskunft über die Umgebung?
 
 <div>
-         
-<div style="float: left; position: relative; top: 0px; padding: 30px;">
+
+::: {style="float: left; position: relative; top: 0px; padding: 30px;"}
 ![](fog.jpg)
+:::
+
+Es fällt leichter, ungeplantes Terrain zu improvisieren, wenn ausreichend markante Orte in der Umgebung existieren. Beispielsweise könnten die schroffen Felsformationen im nebenstehenden Bild als Orientierungspunkt für die wildlebenden Tiere oder der Party dienen - oder auch für Feinde. Dies macht, in Anlehnung an das erste Konzept, das Vorkommen von Dungeons in der Nähe des Felsens (sei es in Form von Höhleneingängen oder Fallschächten etc.) *wahrscheinlicher* - und darum geht es. Je konsistenter die Welt erdacht ist, desto leichter lassen sich unberücksichtigte Elemente improvisieren und ins Weltengeflecht einweben.
+
 </div>
 
-Es fällt leichter, ungeplantes Terrain zu improvisieren, wenn ausreichend markante Orte in der Umgebung existieren. Beispielsweise könnten die schroffen Felsformationen im nebenstehenden Bild als Orientierungspunkt für die wildlebenden Tiere oder der Party dienen - oder auch für Feinde. Dies macht, in Anlehnung an das erste Konzept, das Vorkommen von Dungeons in der Nähe des Felsens (sei es in Form von Höhleneingängen oder Fallschächten etc.) *wahrscheinlicher* - und darum geht es. Je konsistenter die Welt erdacht ist, desto leichter lassen sich unberücksichtigte Elemente improvisieren und ins Weltengeflecht einweben. 
-</div>
-Dabei kann es auch helfen, die Würfel über die genaue Art des Dungeons oder Ortes (je nach umgebenden Biom) entscheiden zu lassen. Ideen hierzu finden sich [hier](https://www.startpage.com/sp/search). <br>
-Vergiss dabei aber nie, die improvisierten Geschehnisse am Tisch in die Lore zu integrieren oder diese ggf. zu ändern! <br> 
+Dabei kann es auch helfen, die Würfel über die genaue Art des Dungeons oder Ortes (je nach umgebenden Biom) entscheiden zu lassen. Ideen hierzu finden sich [hier](https://www.startpage.com/sp/search). <br> Vergiss dabei aber nie, die improvisierten Geschehnisse am Tisch in die Lore zu integrieren oder diese ggf. zu ändern! <br>
 
 Apropos **Ändern**: <br> Schnell können Stunden der Vorbereitungszeit eines DM durch die Entscheidungen am Tisch zunichte gemacht werden. Doch darüber solltest du nicht traurig sein! *"Selig sind die Unwissenden"*, heißt es so schön - und dies kannst du dir zunutze machen:
 

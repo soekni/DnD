@@ -6,6 +6,12 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: Concepts
+        href: concepts.qmd
+      - text: DIY
+        href: diy.qmd
+      - text: FOSS Toolbox
+        href: toolbox.qmd
       - icon: github
         href: https://github.com/soekni
       - icon: mastodon
@@ -14,6 +20,8 @@ format:
   html:
     theme: theme.scss
     css: styles.css
-
+    mainfont: Taviraj
+    toc: false
 editor: visual
+undo_backspace: false
 

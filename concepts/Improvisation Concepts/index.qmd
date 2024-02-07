@@ -1,0 +1,23 @@
+---
+title: "Improvisation Concepts"
+author: "Reimehix"
+date: "2024-02-03"
+categories: [gameplay, improvisation, concept]
+image: "teacher.png"
+---
+
+Deine Mitspieler wollen einen Dungeon entdecken und du hast keinen vorbereitet? <br> Dann solltest du einen Blick auf verschiedene Improvisationstechniken werfen!
+
+# Konzept von [*Enter the Dungeon*](https://yt.artemislena.eu/watch?v=HnDHHl86Bjk)
+
+Du brauchst hierzu nichts weiter als ein Blatt Papier und einen Stift.
+Wichtig ist, dass du zwei gleich große Stapel anlegst. Diese bestehen wiederum aus a) dem Ort des Geschehens und b) der Kreatur, die dir dort über den Weg läuft. Die Menge an Zetteln legst du fest. <br>
+Ziehe nun zufällig aus jedem Stapel eine Kombination, die du (am besten vor dem Spiegel!) improvisieren sollst.
+
+Alternativ kannst du auch folgenden ChatGPT-Prompt nutzen, um dich noch besser überraschen zu lassen:
+
+>
+>"Imagine you being a D&D expert and I'm the dungeon master. I, as a dungeon master, want to practise improvising random encounters that could happen within the D&D universe. <br>
+I want you, as a D&D expert, to give me a random prompt consisting of 2 levels: The first one specifies an interesting place/location that could exist in the D&D universe (for example a jungle temple, a city's sewerage, a monastery on top of a mountain etc.). The second one specifies a character/NPC that is to be found in that location (for example a poor bard, a tender barbarian or a cruel wizard etc.). <br>
+Fill each level with 10 random examples (so in total 100 possible encounters) and prompt me the the first 5 result iteratively. You shall continue with prompting me the next result after I said "Continue".  Start each prompt with "You walk into"!"
+>

@@ -1,6 +1,6 @@
 ---
 title: "Concerning Bloggits"
-image: poet.jpg
+image: poet2.jpg
 about:
   template: jolla
   links:
@@ -13,6 +13,11 @@ about:
     - icon: github
       text: Github
       href: https://github.com/soekni
+editor_options: 
+  chunk_output_type: inline
 ---
 
-[ <strong> Dieser Blog dient als Übung zum Umgang mit Markdown - aber verbunden mit dem Eifer zur Erstellung eines DnD-Spielleiterkompendiums als Nachschlagewerk für und vor künftigen Sitzungen bzw. Reisen in kollektive Fantasmen! 🕮 ]{style="color:darkred; font-family: Babas; font-size: 1.4em"}
+[<strong> Dieser Blog dient als Übung zum Umgang mit Markdown - aber verbunden mit dem Eifer zur Erstellung eines DnD-Spielleiterkompendiums als Nachschlagewerk für und vor künftigen Sitzungen bzw. Reisen in kollektive Fantasmen! 🕮 <br> 
+Wert wird hier vor allem auf die Verwendung von OpenSource-Software zur Erstellung der Kampagnen gelegt um das Spielkonzept barrierefreier zu gestalten.]{style="color:darkred; font-family: $font-family-base; font-size: 1em"} <br>
+
+[<strong> 🛠️ Zur Zeit noch in Entwicklung befindlich! 🏗️]{style="font-family: $font-family-base; font-size: 1.4rem"}

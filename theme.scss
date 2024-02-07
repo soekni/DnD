@@ -12,10 +12,13 @@ $gray-900: #212529 !default;
 $black:    #000 !default;
 
 $primary: transparent !default;
+// Import font-size: 
+@import url('https://fonts.googleapis.com/css2?family=Taviraj:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 
 $font-family-base: 'Roboto Regular', 'Cabin Regular', 'Source Sans Pro', 'Lato', 'Merriweather' !default;
 $body-color: $gray-900 !default;
-$headings-font-family: 'Oleo Script', 'Prata', 'Roboto', 'Playfair Display', 'Montserrat' !default;
+$headings-font-family: 'MedievalSharp', 'Oleo Script', 'Prata', 'Roboto', 'Playfair Display', 'Montserrat' !default;
 $linkcolor: rgba(185, 186, 143, 1) !default;
 
 /*-- scss:rules --*/
@@ -24,7 +27,7 @@ p
   margin-top: 0;
   margin-bottom: 1rem;
   font-style: bold;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: black;
 }
 
@@ -32,23 +35,23 @@ ol, ul, dl
 {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: black;
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  font-family: "Oleo Script", $headings-font-family;
+  font-family: $headings-font-family;
   font-size: $font-size-base * 3.5 ;
 }
 
 .navbar-dark .navbar-brand
 {
-  font-family: "Oleo Script","Oleo Script","Prata","Roboto","Playfair Display","Montserrat";
+  font-family: $headings-font-family;
   font-size: 1.5rem;
 }
 
 .navbar > .container-xxl, .navbar > .container-xl, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container, .navbar > .container-fluid {
-  max-width: 800px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
@@ -73,8 +76,7 @@ div.quarto-post .listing-categories .listing-category
 
 #quarto-margin-sidebar .quarto-listing-category-title
 {
-  font-family: $font-family-base;
-  color: #3d6efd;
+  color: black;
   cursor: pointer;
   font-weight: bold;
   font-size: 1.5rem;
@@ -82,7 +84,6 @@ div.quarto-post .listing-categories .listing-category
 
 #quarto-margin-sidebar .quarto-listing-category
 {
-  font-family: $font-family-base;
   padding-top: 0;
   font-size: 1rem;
   font-weight: 600;
@@ -111,12 +112,84 @@ a {
     text-decoration: underline;
     font-weight: 650;
   }
+
+a:hover {
+  color: $gray-800;
+  text-decoration-color: $gray-800;
+}
+
+.toc-actions a {
+  text-decoration: none !important;  
+  border-bottom: 0;
+}
+
+.toc-actions a:hover {
+  color: $gray-800;
+}
   
 .blockquote > :last-child
 {
   margin-bottom: 0;
   color: black;
-  font-family: "Roboto";
   font-style: italic;
-  font-size: 1.05rem;
+  font-size: 1.5rem;
+  border-left-color: #ffa2a5;
+  border-left: 5px solid;
+  border-right: 1px solid rgba(0,0,0,.5);
+  border-top: 1px solid rgba(0,0,0,.5);
+  border-bottom: 1px solid rgba(0,0,0,.5);
+}
+
+#card-first-color {
+  background-image: url("https://cdn.pixabay.com/photo/2020/07/23/21/59/dice-5432439_960_720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#card-second-color {
+  background-image: url("https://cdn.pixabay.com/photo/2024/01/12/01/12/ai-generated-8502909_960_720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#card-third-color {
+  background-image: url("https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#card-fourth-color {
+  background-image: url("https://cdn.pixabay.com/photo/2023/06/09/07/48/ai-generated-8051090_960_720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.card-text > p {
+  margin-top: 0px;
+  margin-bottom: 1;
+        // Corrected property
+}
+
+.card-body > p {
+  font-weight: bold;  // Corrected property
+  font-size: 1.2rem;
+  color: white;
+  margin-bottom: 200px;
+}
+
+.card-link {
+    background-color: $primary;
+    color: $body-bg;
+    border: 4px solid $primary;
+    border-color: $primary;
+    padding: 5px .5rem 5px .5rem !important;
+    margin: 0;
+    border-radius: 5px; 
+    display: inline-block;
+    text-decoration: none;  
+    font-size: $h2-font-size;
 }

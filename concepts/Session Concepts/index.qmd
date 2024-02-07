@@ -1,0 +1,45 @@
+---
+title: "Session Concepts"
+author: "Reimehix"
+date: "2024-02-03"
+categories: [gameplay, concept]
+image: "feather.jpg"
+toc: true
+---
+
+Bist du oft am Überplanen? <br> 
+Vielleicht helfen dir diese Leitfäden diverser DMs um in und vor deinen Sessions nicht den Überblick zu verlieren.
+
+# Konzept von [*BonusAction*](https://inv.n8pjl.ca/watch?v=iJP5NhVZMVk)
+
+- bereite 3-4 Szenen vor, die in der Sitzung passieren sollen <br>
+- fertige eine DM-Karte an (um den Überblick über das Spielgeschehen zu behalten) <br>
+- schreibe Zusammenfassungen (um wiederum Sitzungen besser planen zu können, siehe 1.) <br>
+- **ALTERNATIV** bitte die Spieler um eine Zusammenfassung! <br>
+- Notfallpläne in petto zu haben ist deine Absicherung ggü. Blackouts¹ <br>
+- bereite eine Zufallsliste (NPC-Namen/Eigenschaften/Aussehen, Nebenquests, Items, Orte, etc.) für zufällige Begegnungen vor <br>
+- Verwende Flussdiagramme (für Kampf und Dialog): "Passiert dies, tu das." <br>
+- setze Ideen aus anderen Medien in Kampagnen um (lass dich inspirieren!) <br>
+- Entwickle auch die NPCs in Bezug auf das Kampagnengeschehen weiter! <br>
+- Trainiere deine Improvisationsfähigkeiten!² <br>
+
+¹ Es ist eine Gratwanderung: Einerseits musst du voraussichtig genug sein um gut genug improvisieren zu können - andererseits kannst du beliebig viel Zeit damit verbringen. Eventuell schafft ein zeitlimitiertes Brainstorming zu jeder Szene vor der Session Abhilfe, wenn du zusätzlich die Eigenarten deiner Spieler zur Eingrenzung hinzuziehst.
+
+² Ich habe dazu einen anderen [Blogpost](https://soekni.github.io/DnD/concepts/Improvisation%20Concepts/) verfasst, in dem du mit Hilfe von ChatGPT dein Improvisationsgeschick üben kannst!
+
+# Konzept von "Lazy DM":
+
+- Schreibe Zusammenfassungen aus Sicht der PCs <br> 
+- Schaffe Beteiligung am Spiel durch einen markanten Start <br>
+- Notiere dir ein paar mögliche Szenarien (basierend auf 1.) <br> 
+- Halte einige Geheimnisse und Hintertürchen (für NPCs oder Orte) bereit <br>
+- Auf welche wichtigen NPCs soll die Gruppe treffen? Bereite sie vor! <br> 
+- Inszeniere tolle Orte und Ausblicke und bereite eine Karte vor (optional) <br>
+- Welche Gefahren lauern wo und inwiefern? Welche Items und anderweitige Belohnungen halten sie bereit? <br>
+
+# Take home Message
+
+Wie du siehst gibt es trotz Gemeinsamkeiten zwischen den Konzepten einige Schwerpunkte, die sich in jeder Session setzen lassen. Unterm Strich gilt es, zum Ton der nächsten Session passende Erzählweisen aus den vorgestellten Punkten zu wählen. <br>
+Trifft die Gruppe in einer großen Stadt ein? Dann ist es vielleicht ratsam, Kartenmaterial und verschiedene NPCs zu erstellen, die die Vielfalt (oder allgemeiner: Zweck) der Stadt repräsentieren und Interesse wecken können. <br>
+Andererseits mag die Art der Vorbereitung auch von den individuellen Stärken des DM abhängen. Vielleicht neigst du zum Überplanen, *weil* dir Improvisation noch schwer fällt.  <br>
+Vielleicht liegt der beste Rat jedoch darin, zu üben, bis der Meister stirbt. Oder so ähnlich..
